@@ -12,4 +12,4 @@ In addition, we employ **Normalization**, **Morphological Processing**,  **Data 
 
 ## Dataset
 
-Skin40 is a dataset that contains 40 skin disease classes. The challenge is that only 60 images are available for each class. Due to the limited data, 5-fold cross-validation should be used to evaluate the model.
+Skin40 is a dataset that contains 40 skin disease classes. The challenge is that only **60** images are available for each class. Due to the limited data, **5-fold cross-validation** should be used to evaluate the model.
