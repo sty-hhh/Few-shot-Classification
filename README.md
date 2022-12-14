@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We investigate the effect of **the number of fully-connected layers** on the model generalization performance, and find that using more fully-connected layers can obtain better result when the finetuning dataset differs too much from the original pre-trained dataset images. In the experiments, our method obtains 76.8 Top-1 accuracy using CNN for backbone and 84.79 Top-1 accuracy using Swin Transformer for backbone on the Skin40 dataset.
+We investigate the effect of **the number of fully-connected layers** on the model generalization performance, and find that using more fully-connected layers can obtain better result when the finetuning dataset differs too much from the original pre-trained dataset images. In the experiments, our method obtains **76.8** Top-1 accuracy using CNN for backbone and **84.79** Top-1 accuracy using Swin Transformer for backbone on the Skin40 dataset.
 
 ## Detail
 
