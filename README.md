@@ -6,8 +6,7 @@ We investigate the effect of **the number of fully-connected layers** on the mod
 
 ## Detail
 
-We try various models based on **CNN** and **Vit** backbones, including **ResNet**, **VGG**, **DenseNet**, and **Swin Transformer**. As a result, applying our
-method on several model structures is able to demonstrate the generalization ability of our method.
+We try various models based on **CNN** and **Vit** backbones, including **ResNet**, **VGG**, **DenseNet**, and **Swin Transformer**. As a result, applying on several model structures is able to demonstrate the generalization ability of our method.
 
 In addition, we employ **Normalization**, **Morphological Processing**,  **Data Augmentation** such as **RandomFlip**, **BatchMixup**, **RandomResizedCrop**, etc.
 
