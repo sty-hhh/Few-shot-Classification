@@ -1,4 +1,4 @@
-# Few-shot Classification
+# Skin40 Few-shot Classification
 
 ## Introduction
 
